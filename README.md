@@ -1,9 +1,8 @@
 # Camera Shutter Speed Tester
-An Arduino project to report on the speed of a camera's shutter
+An Arduino project to report on the speed of a camera's shutter.
 
-Look, lets cut to the chase... i have no Arduino coding skills whatsoever. Period.
-All this is, is somewhere for me to store the 'code' that i wrote that gives me a very rudimentary camera shutter speed tester. It will measure shutter speeds of less than a second, displaying both the shutter action duration in seconds and the approximate shutter speed (i.e. 1/x)
-
+Look, lets cut straight to the chase... i have no Arduino coding skills whatsoever. Period.
+All this is, is somewhere for me to store the 'code' that i wrote that gives me a very rudimentary camera shutter speed tester. It measures shutter speeds of less than a second, displaying both the shutter action duration (in seconds) and the approximate shutter speed (i.e. 1/x)
 
 You are free to do what you like with it. (e.g. laugh very loudly at it etc. etc.)
 
